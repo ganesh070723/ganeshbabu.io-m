@@ -112,7 +112,7 @@ height:100px;
 }
 .aboutme{
 position:absolute;
-left:35%;
+left:40%;
 height:auto;
 width:18%;
 }
@@ -153,16 +153,16 @@ color:white;
 .logo{
 
 position:absolute;
-top:270em;
-left:42%;
+top:275em;
+left:20%;
 height:auto;
 width:18%;
 }
 .cont{
 color:white;
 position:absolute;
-top:132em;
-left:45%;
+top:135em;
+left:20%;
 }
 td{
 padding:10px;
@@ -182,7 +182,7 @@ width:40%;
 position:absolute;
 color:white;
 left:20%;
-top:235em;
+top:240em;
 
 }
 
