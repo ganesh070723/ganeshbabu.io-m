@@ -1,9 +1,10 @@
 body{
-background-color:black;
+background-color:white;
 margin:0;
 text-align:center;
 height:auto;
 width:auto;
+
 }
 p{
 font-family: 'Merriweather', serif;
@@ -13,10 +14,13 @@ height:auto;
 width:auto;
 }
 .intro{
+
 background-color: #80BDAB;
 padding-top: 50.5%;
+margin-right: -100px;
 height:auto;
 width:auto;
+
 
 }
 .middle{
@@ -27,13 +31,14 @@ padding-top:5%;
 position:relative;
 height:auto;
 width:100%;
+padding:50px;
 }
 .mountain{
 height:auto;
 width:60%;
 }
 .bottom{
-
+padding:50px;
 margin-top:-2%;
 background-color:black;
 height:auto;
@@ -60,7 +65,7 @@ width:15%;
 .name{
 font-size:30px;
 font-family: 'Sacramento', cursive;
-
+padding-left:50px;
 }
 .flybit{
 height:20%;
@@ -84,7 +89,7 @@ margin:0;
 background-color:#93B5C6;
 position:fixed;
 padding-top:0.5%;
-padding-right:100%;
+padding-right:90%;
 left:0px;
 top:0px;
 height:auto;
@@ -170,6 +175,7 @@ padding:10px;
 position:fixed;
 top:3%;
 right:-43%;
+padding:10px;
 height:auto;
 width:100%;
 }
