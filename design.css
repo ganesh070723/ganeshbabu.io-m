@@ -8,8 +8,7 @@ width:auto;
 p{
 font-family: 'Merriweather', serif;
 font-size:30px;
-position:relative;
-text-align:center;
+float:center;
 height:auto;
 width:auto;
 }
@@ -74,8 +73,8 @@ width:10%;
 
 }
 .profile{
-height:8%;
 position:fixed;
+height:8%;
 left:1%;
 top:1%;
 
@@ -130,15 +129,17 @@ top:-100px
 }
 .hob{
 
-top:100px;
-left:-10px;
+float:center;
+margin-left:10%;
 height:auto;
 width:50%;
 
 }
 .hobtxt{
-padding-top:100px;
-top:50px;
+padding-top:9.25em;
+margin-top:4%;
+margin-bottom:-1%;
+float:center;
 
 left:-100px;
 }
@@ -151,18 +152,16 @@ a{
 color:white;
 }
 .logo{
-
-position:absolute;
-top:275em;
-left:20%;
+float:center;
+margin-top:10px;
+margin-left:40%;
 height:auto;
 width:18%;
 }
 .cont{
 color:white;
-position:absolute;
-top:135em;
-left:20%;
+margin-top:-20%;
+float:center;
 }
 td{
 padding:10px;
@@ -179,10 +178,10 @@ height:auto;
 width:40%;
 }
 .trd{
-position:absolute;
+float:center;
 color:white;
-left:20%;
-top:240em;
+
+margin-top:100px;
 
 }
 
