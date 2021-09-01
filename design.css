@@ -1,5 +1,5 @@
 body{
-background-color:black;
+background-color:white;
 margin:0;
 text-align:center;
 height:auto;
@@ -17,7 +17,7 @@ width:auto;
 
 background-color: #80BDAB;
 padding-top: 50.5%;
-
+margin-right: -100px;
 height:auto;
 width:auto;
 
@@ -31,14 +31,14 @@ padding-top:5%;
 position:relative;
 height:auto;
 width:100%;
-
+padding:50px;
 }
 .mountain{
 height:auto;
 width:60%;
 }
 .bottom{
-
+padding:50px;
 margin-top:-2%;
 background-color:black;
 height:auto;
